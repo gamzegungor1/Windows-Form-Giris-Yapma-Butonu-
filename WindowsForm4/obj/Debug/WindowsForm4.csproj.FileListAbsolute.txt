@@ -1,0 +1,10 @@
+C:\Users\gamze\OneDrive\Masaüstü\WindowsFormUygulaması\WindowsForm4\WindowsForm4\bin\Debug\WindowsForm4.exe.config
+C:\Users\gamze\OneDrive\Masaüstü\WindowsFormUygulaması\WindowsForm4\WindowsForm4\bin\Debug\WindowsForm4.exe
+C:\Users\gamze\OneDrive\Masaüstü\WindowsFormUygulaması\WindowsForm4\WindowsForm4\bin\Debug\WindowsForm4.pdb
+C:\Users\gamze\OneDrive\Masaüstü\WindowsFormUygulaması\WindowsForm4\WindowsForm4\obj\Debug\WindowsForm4.csproj.AssemblyReference.cache
+C:\Users\gamze\OneDrive\Masaüstü\WindowsFormUygulaması\WindowsForm4\WindowsForm4\obj\Debug\WindowsForm4.Form1.resources
+C:\Users\gamze\OneDrive\Masaüstü\WindowsFormUygulaması\WindowsForm4\WindowsForm4\obj\Debug\WindowsForm4.Properties.Resources.resources
+C:\Users\gamze\OneDrive\Masaüstü\WindowsFormUygulaması\WindowsForm4\WindowsForm4\obj\Debug\WindowsForm4.csproj.GenerateResource.cache
+C:\Users\gamze\OneDrive\Masaüstü\WindowsFormUygulaması\WindowsForm4\WindowsForm4\obj\Debug\WindowsForm4.csproj.CoreCompileInputs.cache
+C:\Users\gamze\OneDrive\Masaüstü\WindowsFormUygulaması\WindowsForm4\WindowsForm4\obj\Debug\WindowsForm4.exe
+C:\Users\gamze\OneDrive\Masaüstü\WindowsFormUygulaması\WindowsForm4\WindowsForm4\obj\Debug\WindowsForm4.pdb
